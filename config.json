@@ -1,0 +1,26 @@
+{
+  "params": {
+    "time": 60,
+    "token": "1889097056:AAFId55D_jnWUACQdj3dO_YZNsxr_GSdWaU",
+    "userid": 8930912
+  },
+  "html": {
+    "ship_tag": {
+      "tag": "li",
+      "class": "productConfiguration__optionListItem"
+    },
+    "size_tag": {
+      "tag": "div",
+      "class": "productConfiguration__variantType"
+    },
+    "date_tag": {
+      "tag": "span",
+      "class_start_date": "productConfiguration__shippingDate",
+      "class_end_date": "productConfiguration__shippingDateEnd"
+    },
+    "availabilityMessage_tag": {
+      "tag": "div",
+      "class": "productConfiguration__availabilitySubMessage"
+    }
+  }
+}
