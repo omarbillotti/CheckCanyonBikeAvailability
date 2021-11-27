@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 On file config.json setup your telegram `userid` and your `token` given by botfather.
 
-Attention :exclamation:
+:exclamation: Attention 
 
 Sometimes the canyon site is updated and you have to look for the css classes and html tags and write them in the config file.
 
