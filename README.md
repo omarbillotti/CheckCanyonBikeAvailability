@@ -72,3 +72,5 @@ if you want to add bikes manually you can do it using the ``bike.json`` file as 
   }
 }
 ```
+
+For bot log check ``log.txt`` file.
