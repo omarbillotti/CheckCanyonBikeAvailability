@@ -1,5 +1,7 @@
 # CheckCanyonBikeAvailability
 
+CheckCanyonBikeAvailability is a telegramm bot to check the availability of one or more canyon bikes on their website.
+
 # Requirement 
 
 - Python3
