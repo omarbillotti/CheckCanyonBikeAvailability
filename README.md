@@ -8,13 +8,18 @@ CheckCanyonBikeAvailability is a telegramm bot to check the availability of one 
 
 # Setup
 
-## Create Virtual Enviroment
+## Create Virtual Environment
 
-[official guide](https://docs.python.org/3/tutorial/venv.html)
+The virtual environment is not necessary but resolve most problem with packages requirements conflict. For more info see the 
+[official guide](https://docs.python.org/3/tutorial/venv.html).
+
+For create new virtual environment open new terminal in this project and type this command:
 
 ``` 
 python3 -m venv venv
 ```
+
+The second ``venv`` is the name of new virtual environment.
 
 Once you’ve created a virtual environment, you may activate it.
 
@@ -29,6 +34,8 @@ On Unix or MacOS, run:
 ```
 source venv/bin/activate
 ```
+
+Activating the virtual environment will change your shell’s prompt to show what virtual environment you’re using, and modify the environment so that running python will get you that particular version and installation of Python.
 
 ## Install Python Requirement
 
